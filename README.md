@@ -5,3 +5,5 @@
 未对SillyTavern和Clewd进行修改
 
 本脚本已使用CC-BY-NC-ND许可证，倒卖会追究法律责任
+
+点我获取[2.0.0稳定公开版](https://github.com/LINKlang/SillyTavern-Clewd-auto)

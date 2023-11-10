@@ -6,6 +6,6 @@
 
 本脚本已使用CC-BY-NC-ND许可证，倒卖会追究法律责任
 
-点我获取[2.0.0稳定公开版](https://github.com/LINKlang/SillyTavern-Clewd-auto)
+点我获取[稳定公开版](https://github.com/LINKlang/SillyTavern-Clewd-auto)
 
 爱发电地址：https://afdian.net/a/silly_clewd_auto
